@@ -1,0 +1,21 @@
+body{
+    background-color: goldenrod;
+}
+h1{
+font-size: 30px;
+color: darkslateblue;
+}
+h2{
+color: darkviolet;
+font-size: 20px;
+}
+
+.big{
+font-size: 60px;
+}
+.big.uppercase{
+text-transform: uppercase;
+}
+h1 span{
+color: violet;
+}
